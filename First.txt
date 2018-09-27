@@ -1,2 +1,4 @@
 Today i opened my first GitHub software installed. 
 I believe its not so late to start. Its new beginning from another day.
+
+Now i m doing second commit;
